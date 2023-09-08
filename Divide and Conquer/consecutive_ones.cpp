@@ -9,7 +9,6 @@ void show(string ans,int n,int k,int len,bool now){
     if (ans.length()==n && now){
         cout << ans << "\n";
     }
-    
 }
 int main(){
     int n,k;
